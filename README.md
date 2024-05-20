@@ -1,6 +1,6 @@
 ## My Customizations to oh-my-zsh.
 
-My settings & plugins for Oh My Zsh. These should be cloned into
+These should be cloned into
 
     $HOME/.oh-my-zsh/custom
 
